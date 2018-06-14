@@ -14,6 +14,6 @@ public class GreetingResource {
 
     @GetMapping
     public String sayHello() {
-        return "Hello from " + GreetingResource.class.getName()+" 7th version";
+        return "Hello from " + GreetingResource.class.getName()+" 8th version";
     }
 }
